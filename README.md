@@ -17,3 +17,4 @@ https://pypi.org/simple/dlib/
 
 
 
+If you have any doubts regarding dlib library feel free to mail me at manassikri04@gmail.com
